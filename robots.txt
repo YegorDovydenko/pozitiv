@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /*admin/
+Disallow: /tag/
+Host: pozitiv-mebel.by
+Sitemap: http://pozitiv-mebel.by/sitemap.xml

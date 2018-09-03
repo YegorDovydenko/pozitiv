@@ -1,0 +1,140 @@
+/* generated in /home/user2027264/www/pozitiv-mebel.by/wp-content/themes/ratio/assets/custom-styles/general-custom-styles.php ratio_edge_design_styles function */
+.edgtf-preload-background { background-image: url(http://pozitiv-mebel.by/wp-content/themes/ratio/assets/img/preload_pattern.png) !important;}
+
+/* generated in /home/user2027264/www/pozitiv-mebel.by/wp-content/themes/ratio/assets/custom-styles/general-custom-styles.php ratio_edge_design_styles function */
+body { font-family: Tahoma;}
+
+/* generated in /home/user2027264/www/pozitiv-mebel.by/wp-content/themes/ratio/assets/custom-styles/general-custom-styles.php ratio_edge_design_styles function */
+.edgtf-boxed .edgtf-wrapper { background-attachment: fixed;}
+
+/* generated in /home/user2027264/www/pozitiv-mebel.by/wp-content/themes/ratio/assets/custom-styles/general-custom-styles.php ratio_edge_text_styles function */
+p { font-size: 16px;font-style: normal;}
+
+/* generated in /home/user2027264/www/pozitiv-mebel.by/wp-content/themes/ratio/assets/custom-styles/general-custom-styles.php ratio_edge_smooth_page_transition_styles function */
+.edgtf-smooth-transition-loader { background-color: #ffffff;}
+
+/* generated in /home/user2027264/www/pozitiv-mebel.by/wp-content/themes/ratio/assets/custom-styles/general-custom-styles.php ratio_edge_smooth_page_transition_styles function */
+.edgtf-st-loader .edgtf-outline { background-color: #ffffff;}
+
+/* generated in /home/user2027264/www/pozitiv-mebel.by/wp-content/themes/ratio/framework/modules/contactform7/custom-styles/contact-form.php ratio_edge_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 ::-webkit-input-placeholder { color: #aaaaaa;}
+
+/* generated in /home/user2027264/www/pozitiv-mebel.by/wp-content/themes/ratio/framework/modules/contactform7/custom-styles/contact-form.php ratio_edge_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 :-moz-placeholder { color: #aaaaaa;}
+
+/* generated in /home/user2027264/www/pozitiv-mebel.by/wp-content/themes/ratio/framework/modules/contactform7/custom-styles/contact-form.php ratio_edge_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 ::-moz-placeholder { color: #aaaaaa;}
+
+/* generated in /home/user2027264/www/pozitiv-mebel.by/wp-content/themes/ratio/framework/modules/contactform7/custom-styles/contact-form.php ratio_edge_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 :-ms-input-placeholder { color: #aaaaaa;}
+
+/* generated in /home/user2027264/www/pozitiv-mebel.by/wp-content/themes/ratio/framework/modules/contactform7/custom-styles/contact-form.php ratio_edge_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea { height: 150px;}
+
+/* generated in /home/user2027264/www/pozitiv-mebel.by/wp-content/themes/ratio/framework/modules/contactform7/custom-styles/contact-form.php ratio_edge_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_1 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-quiz { color: #aaaaaa;font-size: 15px;line-height: 20px;font-family: Raleway;font-style: normal;font-weight: 400;text-transform: capitalize;letter-spacing: 0px;border-color: rgba(215, 215, 215, 1);border-width: 1px;border-radius: 0px;margin-bottom: 14px;}
+
+/* generated in /home/user2027264/www/pozitiv-mebel.by/wp-content/themes/ratio/framework/modules/contactform7/custom-styles/contact-form.php ratio_edge_contact_form7_focus_styles_1 function */
+.cf7_custom_style_1 input:focus::-webkit-input-placeholder, .cf7_custom_style_1 textarea:focus::-webkit-input-placeholder { color: #aaaaaa;}
+
+/* generated in /home/user2027264/www/pozitiv-mebel.by/wp-content/themes/ratio/framework/modules/contactform7/custom-styles/contact-form.php ratio_edge_contact_form7_focus_styles_1 function */
+.cf7_custom_style_1 input:focus:-moz-placeholder, .cf7_custom_style_1 textarea:focus:-moz-placeholder { color: #aaaaaa;}
+
+/* generated in /home/user2027264/www/pozitiv-mebel.by/wp-content/themes/ratio/framework/modules/contactform7/custom-styles/contact-form.php ratio_edge_contact_form7_focus_styles_1 function */
+.cf7_custom_style_1 input:focus::-moz-placeholder, .cf7_custom_style_1 textarea:focus::-moz-placeholder { color: #aaaaaa;}
+
+/* generated in /home/user2027264/www/pozitiv-mebel.by/wp-content/themes/ratio/framework/modules/contactform7/custom-styles/contact-form.php ratio_edge_contact_form7_focus_styles_1 function */
+.cf7_custom_style_1 input:focus:-ms-input-placeholder, .cf7_custom_style_1 textarea:focus:-ms-input-placeholder { color: #aaaaaa;}
+
+/* generated in /home/user2027264/www/pozitiv-mebel.by/wp-content/themes/ratio/framework/modules/contactform7/custom-styles/contact-form.php ratio_edge_contact_form7_focus_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-text:focus, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-number:focus, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-date:focus, .cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea:focus, .cf7_custom_style_1 select.wpcf7-form-control.wpcf7-select:focus, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-quiz:focus { color: #aaaaaa;border-color: rgba(228, 185, 112, 1);}
+
+/* generated in /home/user2027264/www/pozitiv-mebel.by/wp-content/themes/ratio/framework/modules/contactform7/custom-styles/contact-form.php ratio_edge_contact_form7_button_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-submit { color: #ffffff;font-size: 12px;height: 50px;font-family: Raleway;font-style: normal;font-weight: 500;text-transform: uppercase;letter-spacing: 2px;padding-left: 25px;padding-right: 25px;}
+
+/* generated in /home/user2027264/www/pozitiv-mebel.by/wp-content/themes/ratio/framework/modules/contactform7/custom-styles/contact-form.php ratio_edge_contact_form7_button_hover_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover { color: #ffffff;}
+
+/* generated in /home/user2027264/www/pozitiv-mebel.by/wp-content/themes/ratio/framework/modules/contactform7/custom-styles/contact-form.php ratio_edge_contact_form7_text_styles_2 function */
+.cf7_custom_style_2 ::-webkit-input-placeholder { color: #aaaaaa;}
+
+/* generated in /home/user2027264/www/pozitiv-mebel.by/wp-content/themes/ratio/framework/modules/contactform7/custom-styles/contact-form.php ratio_edge_contact_form7_text_styles_2 function */
+.cf7_custom_style_2 :-moz-placeholder { color: #aaaaaa;}
+
+/* generated in /home/user2027264/www/pozitiv-mebel.by/wp-content/themes/ratio/framework/modules/contactform7/custom-styles/contact-form.php ratio_edge_contact_form7_text_styles_2 function */
+.cf7_custom_style_2 ::-moz-placeholder { color: #aaaaaa;}
+
+/* generated in /home/user2027264/www/pozitiv-mebel.by/wp-content/themes/ratio/framework/modules/contactform7/custom-styles/contact-form.php ratio_edge_contact_form7_text_styles_2 function */
+.cf7_custom_style_2 :-ms-input-placeholder { color: #aaaaaa;}
+
+/* generated in /home/user2027264/www/pozitiv-mebel.by/wp-content/themes/ratio/framework/modules/contactform7/custom-styles/contact-form.php ratio_edge_contact_form7_text_styles_2 function */
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_2 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_2 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-quiz { color: #aaaaaa;font-size: 15px;line-height: 20px;font-family: Raleway;font-style: normal;font-weight: 400;text-transform: capitalize;letter-spacing: 0px;border-color: rgba(215, 215, 215, 1);border-width: 1px;border-radius: 0px;}
+
+/* generated in /home/user2027264/www/pozitiv-mebel.by/wp-content/themes/ratio/framework/modules/contactform7/custom-styles/contact-form.php ratio_edge_contact_form7_focus_styles_2 function */
+.cf7_custom_style_2 input:focus::-webkit-input-placeholder, .cf7_custom_style_2 textarea:focus::-webkit-input-placeholder { color: #aaaaaa;}
+
+/* generated in /home/user2027264/www/pozitiv-mebel.by/wp-content/themes/ratio/framework/modules/contactform7/custom-styles/contact-form.php ratio_edge_contact_form7_focus_styles_2 function */
+.cf7_custom_style_2 input:focus:-moz-placeholder, .cf7_custom_style_2 textarea:focus:-moz-placeholder { color: #aaaaaa;}
+
+/* generated in /home/user2027264/www/pozitiv-mebel.by/wp-content/themes/ratio/framework/modules/contactform7/custom-styles/contact-form.php ratio_edge_contact_form7_focus_styles_2 function */
+.cf7_custom_style_2 input:focus::-moz-placeholder, .cf7_custom_style_2 textarea:focus::-moz-placeholder { color: #aaaaaa;}
+
+/* generated in /home/user2027264/www/pozitiv-mebel.by/wp-content/themes/ratio/framework/modules/contactform7/custom-styles/contact-form.php ratio_edge_contact_form7_focus_styles_2 function */
+.cf7_custom_style_2 input:focus:-ms-input-placeholder, .cf7_custom_style_2 textarea:focus:-ms-input-placeholder { color: #aaaaaa;}
+
+/* generated in /home/user2027264/www/pozitiv-mebel.by/wp-content/themes/ratio/framework/modules/contactform7/custom-styles/contact-form.php ratio_edge_contact_form7_focus_styles_2 function */
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-text:focus, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-number:focus, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-date:focus, .cf7_custom_style_2 textarea.wpcf7-form-control.wpcf7-textarea:focus, .cf7_custom_style_2 select.wpcf7-form-control.wpcf7-select:focus, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-quiz:focus { color: #aaaaaa;border-color: rgba(228, 185, 112, 1);}
+
+/* generated in /home/user2027264/www/pozitiv-mebel.by/wp-content/themes/ratio/framework/modules/contactform7/custom-styles/contact-form.php ratio_edge_contact_form7_button_styles_2 function */
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-submit { color: #ffffff;font-size: 12px;height: 55px;font-family: Raleway;font-style: normal;font-weight: 500;text-transform: uppercase;letter-spacing: 3px;padding-left: 25px;padding-right: 25px;}
+
+/* generated in /home/user2027264/www/pozitiv-mebel.by/wp-content/themes/ratio/framework/modules/contactform7/custom-styles/contact-form.php ratio_edge_contact_form7_button_hover_styles_2 function */
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover { color: #ffffff;}
+
+/* generated in /home/user2027264/www/pozitiv-mebel.by/wp-content/themes/ratio/framework/modules/footer/custom-styles/footer.php ratio_edge_footer_top_styles function */
+.edgtf-footer-top-holder { background-image: url(http://ratio.edge-themes.com/wp-content/uploads/2016/04/footer-image.jpg);}
+
+/* generated in /home/user2027264/www/pozitiv-mebel.by/wp-content/themes/ratio/framework/modules/fullscreenmenu/custom-styles/fullscreen-menu.php ratio_edge_fullscreen_menu_general_styles function */
+.edgtf-fullscreen-menu-holder { background-image: url(http://ratio.edge-themes.com/wp-content/uploads/2016/05/full-screen-menu-image.jpg);background-position: center 0;background-repeat: no-repeat;}
+
+/* generated in /home/user2027264/www/pozitiv-mebel.by/wp-content/themes/ratio/framework/modules/header/custom-styles/header.inc ratio_edge_header_standard_menu_area_styles function */
+.edgtf-header-standard .edgtf-page-header .edgtf-menu-area { background-color: rgba(255, 255, 255, 1);}
+
+
+        
+        
+        
+        
+	            
+        
+        
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+                
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+                
+        
+                
+        /* generated in /home/user2027264/www/pozitiv-mebel.by/wp-content/themes/ratio/framework/modules/sidearea/custom-styles/sidearea.php ratio_edge_side_area_slide_from_right_type_style function */
+.edgtf-side-menu-slide-from-right .edgtf-side-menu { right: -360px;width: 360px;}
+
+/* generated in /home/user2027264/www/pozitiv-mebel.by/wp-content/themes/ratio/framework/modules/sidearea/custom-styles/sidearea.php ratio_edge_side_area_styles function */
+.edgtf-side-menu, .edgtf-side-area-uncovered-from-content .edgtf-side-menu, .edgtf-side-menu-slide-from-right .edgtf-side-menu { background-color: #212121;}
+

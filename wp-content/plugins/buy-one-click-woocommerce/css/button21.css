@@ -1,0 +1,31 @@
+
+a.button21 {
+    display: inline-block;
+    width: 38%;
+    height: auto;
+    margin-left: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    line-height: 3em;
+    vertical-align: middle;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    color: rgb(255,255,255);
+    outline: none;
+    border: 1px solid rgba(0,0,0,.4);
+    border-top-color: rgba(0,0,0,.3);
+    border-radius: 7px;
+    background: linear-gradient(rgb(255,0,0), rgb(255,102,100));
+    transition: .2s ease-in-out;
+    font-size: 20px;
+    cursor: pointer;
+}
+a.button21:hover:not(:active) {
+    box-shadow: 0 0 0 rgba(0,0,0,0) inset, 0 0px 1px 1px rgba(255,50,50,.5), 0 -1px 1px 1px rgba(255,50,50,.5);
+    cursor: pointer;
+}
+a.button21:active {
+    background: linear-gradient(rgb(255,0,0), rgb(255,102,100));
+    box-shadow: 0 0 0 rgba(0,0,0,0) inset, 0 0px 1px 1px rgba(255,50,50,.5), 0 -1px 1px 1px rgba(255,50,50,.5);
+}

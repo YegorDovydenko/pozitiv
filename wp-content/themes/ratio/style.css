@@ -1,0 +1,110 @@
+/*
+Theme Name: Ratio
+Theme URI: http://ratio.edge-themes.com
+Description: A Powerful Theme for Architecture, Construction, and Interior Design
+Author: Edge Themes
+Author URI: http://demo.edge-themes.com
+Version: 1.4
+License: GNU General Public License
+License URI: licence/GPL.txt
+Text Domain: ratio
+
+CSS changes can be made in files in the /css/ folder. This is a placeholder file required by WordPress, so do not delete it.
+
+*/
+html{
+	min-width: 375px!important;
+}
+.zagolovok_kataloga{
+	margin-top: -8px;
+}
+.edgtf-title .edgtf-title-holder{
+	display: none!important;
+}
+.edgtf-blog-holder.edgtf-blog-type-masonry.edgtf-appeared{
+	margin-top: -150px;
+}
+.edgtf-title.edgtf-standard-type.edgtf-has-background.edgtf-has-responsive-background.edgtf-content-center-alignment.edgtf-title-medium-text-size.edgtf-animation-no.edgtf-title-image-responsive.edgtf-title-without-border.edgtf-title-in-grid{
+	display: none!important;
+}
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-text{
+    line-height: 1!important;
+    margin-bottom: -22px!important;
+}
+.wpcf7-form-control.wpcf7-text{
+    padding: 9.5px 15px!important;
+}
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-submit{
+    margin-top: -10px;
+}
+.cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea{
+    margin-bottom: 0px!important;
+}
+.vc_custom_1535294992836{
+	background: #f4f4f4!important;
+}
+.vc_custom_1535294992836 .edgtf-section-inner .edgtf-section-inner-margin .vc_column_container{
+	width: 20%!important;
+}
+.magazz a img, .magazz .namezz{
+	 -moz-transition: all 0.5s ease-out;
+ -o-transition: all 0.5s ease-out;
+ -webkit-transition: all 0.5s ease-out;
+ transition: all 0.5s ease-out;
+}
+.magazz a img:hover{
+	-webkit-transform: scale(1.08);
+ -moz-transform: scale(1.08);
+ -o-transform: scale(1.08);
+ transform: scale(1.08);
+}
+.magazz .namezz:hover{
+	font-size: 15px;
+}
+.vc_custom_1535296620481{
+	text-align: center;
+}
+.edgtf-elements-holder-item-content .wpb_single_image figure .vc_single_image-wrapper img{
+	    width: 100%;
+    height: auto;
+}
+@media screen and (max-width: 1025px){
+	.edgtf-two-columns-50-50 .edgtf-column{
+		width: 30%;
+	}
+	.vc_col-sm-3{
+		width: 33%!important;
+	}
+}
+@media screen and (max-width: 768px){
+	.vc_custom_1535294992836 .edgtf-section-inner .edgtf-section-inner-margin .vc_column_container{
+		width: 50%!important;
+    margin-left: 25%;
+	}
+	.vc_col-sm-4 {
+    width: 80%!important;
+    margin-top: 30px;
+}
+.full-katalog{
+	overflow: hidden;
+	margin-top: 130px;
+}
+.vc_custom_1535277822816 .wpb_wrapper .wpb_raw_code .wpb_wrapper iframe{
+	width: 90%!important;
+	margin-left: -9%;
+}
+}
+@media screen and (max-width: 601px){
+	.vc_custom_1535294992836 .edgtf-section-inner .edgtf-section-inner-margin .vc_column_container{
+		    width: 100%!important;
+    margin-bottom: 25px;
+    margin-left: 0%!important;
+	}
+	.ok-link {
+    position: relative;
+    margin-left: 155px;
+}
+	.vc_custom_1535277822816 .wpb_wrapper .wpb_raw_code .wpb_wrapper iframe{
+		margin-left: -75px;
+	}
+}
